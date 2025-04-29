@@ -1,10 +1,10 @@
 # 🕯️ The Silent Ashes
 
-**The Silent Ashes** is a first-person horror game built using Unity, developed as the final project of our internship at **Vighnesh Inc.** and **IOFT**. Designed to immerse players in a haunting environment full of subtle narrative cues, eerie atmosphere, and suspenseful exploration.
+**The Silent Ashes** is a first-person horror game built using Unity. It is designed to immerse players in a haunting environment full of subtle narrative cues, eerie atmosphere, and suspenseful exploration.
 
 ## 🎮 Gameplay Overview
 
-You wake up in a seemingly abandoned space with no memory of how you got there. As you explore the decaying corridors and haunted halls, the story slowly unfolds through cryptic clues, eerie sounds, and interactive objects. There’s only one way out — and it won’t be easy.
+You search for haunted places and come across an abandoned mansion rumored to be cursed. Driven by curiosity, you step inside to uncover its dark secrets. But the moment you open the door, it slams shut behind you. Trapped inside, you must explore decaying corridors and haunted halls where the story unfolds gradually through cryptic clues, eerie sounds, and interactive objects. There’s only one way out — and it won’t be easy.
 
 ## 🧠 Key Features
 
