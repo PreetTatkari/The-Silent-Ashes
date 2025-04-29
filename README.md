@@ -24,7 +24,7 @@ You wake up in a seemingly abandoned space with no memory of how you got there. 
 
 ## 📸 Media
 
-Check out the [Game Trailer](#) 
+Check out the [Game Trailer](#https://www.linkedin.com/posts/preettatkari_gamedevelopment-madewithunity-horrorgame-activity-7323017721711874048-P-qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
 
 
 https://github.com/user-attachments/assets/7ae095ea-7b03-4cdf-a937-b8e230d1ca8f
