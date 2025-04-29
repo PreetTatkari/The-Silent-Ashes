@@ -35,6 +35,10 @@ https://github.com/user-attachments/assets/7ae095ea-7b03-4cdf-a937-b8e230d1ca8f
 and [Raw Gameplay Footage](#)
 
 
+https://github.com/user-attachments/assets/a6db9a75-181b-45f3-9d6a-2d2a45fde2cf
+
+
+
 ## 🚀 Getting Started
 
 > ⚠️ This repository contains project files for Unity. Unity 2021.3+ or later is recommended.
