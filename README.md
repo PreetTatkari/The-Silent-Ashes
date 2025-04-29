@@ -25,15 +25,15 @@ You wake up in a seemingly abandoned space with no memory of how you got there. 
 
 ## 📸 Media
 
-[LinkedIn](www.linkedin.com/in/preettatkari)
+Follow me on [LinkedIn](www.linkedin.com/in/preettatkari)
 
-📽️ [Watch the Official Trailer on for better quality](https://www.linkedin.com/posts/preettatkari_gamedevelopment-madewithunity-horrorgame-activity-7323017721711874048-P-qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
+📽️ [Watch the Official Trailer on LinkedIn for better video quality](https://www.linkedin.com/posts/preettatkari_gamedevelopment-madewithunity-horrorgame-activity-7323017721711874048-P-qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
 
 
 https://github.com/user-attachments/assets/7ae095ea-7b03-4cdf-a937-b8e230d1ca8f
 
 
-🎬 [Watch Raw Gameplay Footage on LinkedIn for better quality](https://www.linkedin.com/posts/preettatkari_gamedev-unity3d-indiedev-activity-7323025654646501377-hQMU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0)  
+🎬 [Watch Raw Gameplay Footage on LinkedIn for better video quality](https://www.linkedin.com/posts/preettatkari_gamedev-unity3d-indiedev-activity-7323025654646501377-hQMU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0)  
 
 
 https://github.com/user-attachments/assets/a6db9a75-181b-45f3-9d6a-2d2a45fde2cf
