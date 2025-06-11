@@ -27,7 +27,7 @@ You search for haunted places and come across an abandoned mansion rumored to be
 
 Follow me on LinkedIn - www.linkedin.com/in/preettatkari
 
-📽️ [Watch the Official Trailer on LinkedIn for better video quality](https://www.linkedin.com/posts/preettatkari_gamedevelopment-madewithunity-horrorgame-activity-7323017721711874048-P-qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
+📽️ [Watch the Official Game Trailer on LinkedIn for better video quality](https://www.linkedin.com/posts/preettatkari_gamedevelopment-madewithunity-horrorgame-activity-7323017721711874048-P-qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
 
 
 https://github.com/user-attachments/assets/7ae095ea-7b03-4cdf-a937-b8e230d1ca8f
@@ -45,4 +45,4 @@ https://github.com/user-attachments/assets/a6db9a75-181b-45f3-9d6a-2d2a45fde2cf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PreetTatkari/TheSilentAshes.git
+   git clone https://github.com/PreetTatkari/The-Silent-Ashes.git
