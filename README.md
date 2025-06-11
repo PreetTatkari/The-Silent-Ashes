@@ -25,7 +25,7 @@ You search for haunted places and come across an abandoned mansion rumored to be
 
 ## 📸 Media
 
-Follow me on [LinkedIn](www.linkedin.com/in/preettatkari)
+Follow me on LinkedIn - www.linkedin.com/in/preettatkari
 
 📽️ [Watch the Official Trailer on LinkedIn for better video quality](https://www.linkedin.com/posts/preettatkari_gamedevelopment-madewithunity-horrorgame-activity-7323017721711874048-P-qC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
 
